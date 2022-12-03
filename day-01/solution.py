@@ -1,4 +1,4 @@
-f = open("in1.txt", "r")
+f = open("input.txt", "r")
 
 max1 = 0
 max2 = 0

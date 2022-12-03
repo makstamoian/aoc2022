@@ -1,4 +1,4 @@
-f = open("in2.txt", "r")
+f = open("input.txt", "r")
 
 res_part1 = 0
 
